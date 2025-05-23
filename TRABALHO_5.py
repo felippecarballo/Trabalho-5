@@ -62,4 +62,3 @@ def encontrar_mediana(vet):
 
 teste = [3, 1, 4, 1, 5, 9, 2, 6, 8]
 encontrar_mediana(teste)
-#print(f"Mediana (verificação): {statistics.median(teste)}")
